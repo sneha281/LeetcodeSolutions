@@ -20,7 +20,7 @@ int main()
         }
       
     }
-    cout<<"maxx count of element  "<<p;
+    cout<<"dup ele is "<<p;
 
     return 0;
 }
